@@ -15,4 +15,10 @@ public class Tanah {
        System.out.println("Lebar Tanah :"+LebarTanah);
        System.out.println("=============================");
    }
+  
+  double HitungLuasTanah(){
+      double luas;
+      luas = PanjangTanah*LebarTanah;
+      return luas;
+  }
 }
