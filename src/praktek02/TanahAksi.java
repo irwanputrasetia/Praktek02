@@ -14,5 +14,11 @@ public class TanahAksi {
       r1.cetakInfo();
       System.out.println("Luas Tanah = "+r1.HitungLuasTanah());
       r1.cetakLuas();
+      
+      Tanah r2 = new Tanah();
+      r2.cetakInfo();
+              
+      Tanah r3 = new Tanah(50,30);
+      r3.cetakInfo();
     }
 }
