@@ -8,5 +8,8 @@ package praktek02;
 public class TanahAksi {
     public static void main(String[] args) {
       Tanah r1  = new Tanah ();
+      r1.PanjangTanah = 12;
+      r1.LebarTanah = 10;
+      
     }
 }
