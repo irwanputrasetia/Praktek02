@@ -11,5 +11,6 @@ public class TanahAksi {
       r1.PanjangTanah = 12;
       r1.LebarTanah = 10;
       
+      r1.cetakInfo();
     }
 }
