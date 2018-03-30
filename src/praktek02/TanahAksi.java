@@ -7,6 +7,6 @@ package praktek02;
 
 public class TanahAksi {
     public static void main(String[] args) {
-        
+      Tanah r1  = new Tanah ();
     }
 }
