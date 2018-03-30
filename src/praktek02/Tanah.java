@@ -8,6 +8,11 @@ package praktek02;
 public class Tanah {
    double PanjangTanah;
    double LebarTanah;
+
+    public Tanah() {
+        PanjangTanah = 15;
+        LebarTanah = 9;
+    }
    
   void cetakInfo(){
        System.out.println("=============================");
