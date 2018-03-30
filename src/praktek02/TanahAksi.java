@@ -13,5 +13,6 @@ public class TanahAksi {
       
       r1.cetakInfo();
       System.out.println("Luas Tanah = "+r1.HitungLuasTanah());
+      r1.cetakLuas();
     }
 }

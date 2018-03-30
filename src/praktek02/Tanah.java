@@ -21,4 +21,8 @@ public class Tanah {
       luas = PanjangTanah*LebarTanah;
       return luas;
   }
+  
+  void cetakLuas(){  
+  System.out.println("Luasnya adalah = "+HitungLuasTanah());
+}
 }
